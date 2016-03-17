@@ -3,7 +3,7 @@ body {
     margin: 50px 25px;
 }
 
-a {
+div.page a {
     color: #2a99b6;
 }
 
@@ -14,12 +14,19 @@ a:hover {
 header, footer, div.page {
     width: 760px;
     margin: 0 auto;
-    background: #daeef3;
     padding: 20px 30px;
 }
 
+header, header a {
+    background: #1b1b1b;
+    color: #ffffff;
+}
+
+footer {
+    background: #6d6d6d;
+}
+
 header h1 {
-    color: #169bbd;
     margin: 0;
     font-weight: normal;
     font-size: 42px;
@@ -38,5 +45,5 @@ header nav ul li {
 }
 
 div.page {
-    background: #f1fbfe;
+    background: #ffffff;
 }
