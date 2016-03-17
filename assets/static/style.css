@@ -23,7 +23,11 @@ header, header a {
 }
 
 footer {
-    background: #6d6d6d;
+    background: #bbbbbb;
+}
+
+footer img {
+    vertical-align: bottom;
 }
 
 header h1 {
