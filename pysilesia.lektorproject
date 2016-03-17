@@ -1,2 +1,5 @@
 [project]
 name = pysilesia
+
+[servers.ghpages]
+target = ghpages://pysilesia/pysilesia.github.io
