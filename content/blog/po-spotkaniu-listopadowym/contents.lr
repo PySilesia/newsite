@@ -1,0 +1,23 @@
+title: Po spotkaniu listopadowym
+---
+author: Łukasz Oleś
+---
+body:
+
+Z lekkim poślizgiem pojawia się podsumowanie.  
+  
+Jak planowaliśmy odbyły się 3 prezentacje:  
+  
+- Dominik Długajczyk opowiedział co to PyDroid i dlaczego nie poleca go używać :) [prezentacja](https://dl.dropboxusercontent.com/s/xb77ma8octps4as/pre.py?dl=1&token_hash=AAF77P9S75o0CCWojIh3L8r2op-MSNBAmlt459Y3jWcEhA)  
+  
+- Maciej Szulik przybliżył nam jak świat Pythona może wykorzystać narzędzia stworzone przez Javowców. O ile Jenkis, choćby z nazwy, jest znany sporej ilości osób to już Sonar dla wielu pewnie był nowością. [prezentacja](https://dl.dropboxusercontent.com/s/a767dsi6ying1qx/continuous_review.pdf?dl=1&token_hash=AAGhjkpL2KS1OnaIxeJNPUo8aQzJw9AG2WXoZ7SIxjUFsA)  
+  
+- Kamil Gałuszka natomiast pokazał nam jak przeportować aplikację django do pythona3. Korzystając z dopiero co wydanej nowej wersji Django nigdy nie było to prostsze!  [prezentacja](http://slid.es/kamilgaluszka/porting-django-apps-to-python3)  
+  
+Podczas spotkania rozmawialiśmy również o zorganizowaniu Hackatonu, o tym co trzeba zmienić w naszej stonie, żeby się nam jej łatwiej używało i o kilku nowinkach z świata pythona. O szczegółach już niedługo.   
+  
+Kilka zdjęć można zobaczyć na stronie [wydarzenia google plus](https://plus.google.com/u/0/events/c1c8q8q9rr5dvhvj7i5n5t3p8b4).  
+  
+Ps. Wczoraj (16 listopada) powstało Polskie Stowarzyszenie Użytkowników Pythona. Mamy już nawet [zarząd](https://twitter.com/lukas_oles/status/401740875161944064) :)  
+---
+pub_date: 2013-11-18
