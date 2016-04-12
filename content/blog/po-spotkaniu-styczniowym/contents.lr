@@ -4,23 +4,23 @@ author: Jakub Wiśniowski
 ---
 body:
 
-Troche czasu od ostatniego spotkania (17 stycznia 2013) minęło, a nie udało się nam znaleźć czasu na jego podsumowanie. Tymczasem było naprawdę ciekawie, odbyło sie w sumie 5 prezentacji:  
-  
-    Słowo wstępne oraz REST w Django (Django Rest Framework) - Jakub Wiśniowski  
-    REST w Pyramidzie - Łukasz Oleś  
-    REST w Ruby on Rails - Maciej Wiśniowski  
-    REST w Symfony - Michał Pipa  
-    REST w Django (Tastypie) - Adam Kochanowski  
-  
-Dostępne materiały z wydarzenia, a także inne polecane:  
-  
-    Bardzo dobra prezentacja Michała Pipy, którą przedstawiał na Pysilesii: [http://michal-pipa.github.com/talks/2013-01-17-symfony-rest/](http://michal-pipa.github.com/talks/2013-01-17-symfony-rest/)  
-    Prezentacja Łukasza Olesia: [http://www.slideshare.net/ukaszOle/pyramid-rest](http://www.slideshare.net/ukaszOle/pyramid-rest)  
-    Od tego wszystko się zaczęło: [http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)  
-    David Zuelke o REST:  [https://speakerdeck.com/dzuelke/designing-http-interfaces-and-restful-web-services-sflivesanfrancisco2012-2012-09-27](https://speakerdeck.com/dzuelke/designing-http-interfaces-and-restful-web-services-sflivesanfrancisco2012-2012-09-27]())  
-  
-Jeśli prelegenci mogą się podzielić swoimi prezetacjami to zachęcam do dodania informacji o nich do tego posta. Moja prezentacja niestety zaginęła - nie przetrwała reinstalacji systemu :(  
-  
-Kolejne spotkanie planowane było na luty, przy współudziale pewnej dużej firmy, ale... jak na razie nie wypaliło. Zachęcamy zatem do dołączenia do naszej listy dyskusyjnej, na której obecnie trwa dyskusja dotycząca tematów do poruszenia na następnym spotkaniu.  
+Troche czasu od ostatniego spotkania (17 stycznia 2013) minęło, a nie udało się nam znaleźć czasu na jego podsumowanie. Tymczasem było naprawdę ciekawie, odbyło sie w sumie 5 prezentacji:
+
+- Słowo wstępne oraz REST w Django (Django Rest Framework) - Jakub Wiśniowski
+- REST w Pyramidzie - Łukasz Oleś
+- REST w Ruby on Rails - Maciej Wiśniowski
+- REST w Symfony - Michał Pipa
+- REST w Django (Tastypie) - Adam Kochanowski
+
+Dostępne materiały z wydarzenia, a także inne polecane:
+
+- Bardzo dobra prezentacja Michała Pipy, którą przedstawiał na Pysilesii: [http://michal-pipa.github.com/talks/2013-01-17-symfony-rest/](http://michal-pipa.github.com/talks/2013-01-17-symfony-rest/)
+- Prezentacja Łukasza Olesia: [http://www.slideshare.net/ukaszOle/pyramid-rest](http://www.slideshare.net/ukaszOle/pyramid-rest)
+- Od tego wszystko się zaczęło: [http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+- David Zuelke o REST:  [https://speakerdeck.com/dzuelke/designing-http-interfaces-and-restful-web-services-sflivesanfrancisco2012-2012-09-27](https://speakerdeck.com/dzuelke/designing-http-interfaces-and-restful-web-services-sflivesanfrancisco2012-2012-09-27])
+
+Jeśli prelegenci mogą się podzielić swoimi prezetacjami to zachęcam do dodania informacji o nich do tego posta. Moja prezentacja niestety zaginęła - nie przetrwała reinstalacji systemu :(
+
+Kolejne spotkanie planowane było na luty, przy współudziale pewnej dużej firmy, ale... jak na razie nie wypaliło. Zachęcamy zatem do dołączenia do naszej listy dyskusyjnej, na której obecnie trwa dyskusja dotycząca tematów do poruszenia na następnym spotkaniu.
 ---
 pub_date: 2013-02-25
