@@ -1,0 +1,28 @@
+title: PySilesia #4/2016
+---
+author: Filip Kłębczyk
+---
+body:
+
+Na majowym spotkaniu PySilesia będziemy gościć **Jakuba Wasielaka** z prelekcją:  
+
+**"Porządkowanie chaosu, czyli Gitflow + Vagrant + Ansible"**  
+
+**Opis prelekcji:**  
+Załóżmy, że napisanie jednej części kodu przez jedną osobę wynosi x czasu. Czy w takim razie dwie osoby ten sam kod powinny napisać w dwa razy krótszym czasie? A dziesięć osób w 0.1x? Byłoby pięknie, ale tak nie jest. Nawet przy optymistycznym założeniu okaże się, że zwiększając ilość programistów, zwiększamy czas potrzebny na rozwiązanie danego problemu. Jak więc poradzić sobie z tym paradoksem?
+W trakcie prezentacji o porządkowaniu chaosu chcę poruszyć takie tematy, jak organizacja środowiska oraz metody pracy. Zaproponuję rozwiązanie, w którym każdy developer jedną komendą ustawi lokalne środowisko, gdzie konflikt w trakcie merge'u jest rzadkością, a więcej czasu niż deploy produkcyjny zajmuje zrobienie sobie kawy.
+
+**O prelegencie:**  
+Programista Python z doświadczeniem w rozwijaniu aplikacji webowych - głównie przy użyciu Django. Obecnie zatrudniony w firmie YouGov. W wolnym czasie fan fantasy i larpów, koordynator zlotu miłośników fantastyki Fornost.
+
+**Miejsce:**  
+["Drzwi zwane koniem"](http://drzwizwanekoniem.pl/)  
+Spotykamy się w ostatniej sali (po wejściu cały czas prosto)
+
+**Czas:**  
+25 maja, godz. 17:45
+
+---
+twitter_handle: fk_lx
+---
+pub_date: 2016-05-12

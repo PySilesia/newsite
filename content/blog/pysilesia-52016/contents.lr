@@ -1,0 +1,29 @@
+title: PySilesia #5/2016
+---
+author: Filip Kłębczyk
+---
+body:
+
+Na czerwcowym spotkaniu PySilesia dwie prelekcje. Odbędzie się [zaległa majowa](http://pysilesia.org/blog/pysilesia-42016/), która ostatnio nie doszła do skutku z powodu nieoczekiwanego wyjątku KrakówMainBusStationLongWeekendPassengersOverflow.  Będzie też prelekcja naszego pythonowego kolegi [Petra Viktorina](http://encukou.cz/) z Brna, dzięki której można będzie dowiedzieć co nieco o wnętrznościach Pythona:
+
+**"Python compilation & bytecode"**  
+
+**Opis prelekcji:**  
+So, you wrote some Python code. What needs to happen before it starts running? I'll talk about things like CPython's tokenization, parsing, the Abstract Syntax Tree, bytecode and its serialization and caching, line number tables, and the stack-based virtual machine. Both beginners and experts should learn something new :)
+
+**O prelegencie:**  
+Petr jest doświadczonym programistą Pythona, pracownikiem [Red Hata](https://www.redhat.com/en/global/czech-republic), aktywnym uczestnikiem wielu projektów open source, weteranem czeskich meetupów [Pyvo](http://pyvo.cz/), częstym prelegentem konferencyjnym, jednym z organizatorów [PyCon CZ](https://cz.pycon.org/), mentorem PyLadies oraz Django Girls, poza tym last but not least [czeskim ambasadorem PyCona PL](http://pl.pycon.org/2016/ambassadors).
+
+**Lightning Talks:**  
+Na prośbę z ostatniego spotkania wracamy do starego zwyczaju szybkich pięciominutowych prelekcji. Nie trzeba ich wcześniej zgłaszać, ale warto przed spotkaniem się trochę przygotować.
+
+**Miejsce:**  
+["Drzwi zwane koniem"](http://drzwizwanekoniem.pl/)  
+Spotykamy się w ostatniej sali (po wejściu cały czas prosto)
+
+**Czas:**  
+22 czerwca, godz. 17:45
+---
+pub_date: 2016-06-09
+---
+twitter_handle: fk_lx
