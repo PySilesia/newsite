@@ -1,30 +1,14 @@
 <!doctype html>
-<meta charset="utf-8">
-<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
-<title>{% block title %}{% endblock %}{% if self.title() %} | {% endif %} PySilesia</title>
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}{% endblock %}{% if self.title() %} | {% endif %} PySilesia</title>
+  {% include 'layout/head.html' %}
+</head>
 <body>
-  <header>
-    <a href="/"><img src="/static/logo.png" /></a>
-    <nav>
-      <ul class="nav navbar-nav">
-        </li>
-        {% for href, title in [
-          ['/blog', 'Aktualności'],
-          ['/about', 'O nas'],
-          ['/codeofconduct', 'Code of Conduct'],
-          ['/plpython', 'Python w Polsce'],
-          ['/contact', 'Kontakt'],
-        ] %}
-          <li{% if this.is_child_of(href) %} class="active"{% endif
-            %}><a href="{{ href|url }}">{{ title }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </header>
+  {% include 'layout/navbar.html' %}
   <div class="page">
     {% block body %}{% endblock %}
   </div>
-  <footer>
-    &copy; Copyright 2016 by PySilesia. Hosted on <a href="http://megiteam.pl/"><img src="/static/megiteam.png" /></a>
-  </footer>
+  {% include 'layout/footer.html' %}
+  {% include 'layout/body_bottom.html' %}
 </body>
