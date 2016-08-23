@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% from "macros/blog.html" import render_blog_post %}
+{% from "macros/pagination.html" import render_pagination %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+  {{ this.body }}
+  {% set news = site.query('/blog').order_by('-pub_date').limit(5) %}
+  {% for child in news %}
+    {{ render_blog_post(child, from_index=true) }}
+  {% endfor %}
+{% endblock %}

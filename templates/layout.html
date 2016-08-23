@@ -1,14 +1,13 @@
 <!doctype html>
 <meta charset="utf-8">
 <link rel="stylesheet" href="{{ '/static/style.css'|url }}">
-<title>{% block title %}Welcome{% endblock %} — pysilesia</title>
+<title>{% block title %}{% endblock %}{% if self.title() %} | {% endif %} PySilesia</title>
 <body>
   <header>
-    <img src="/static/logo.png" />
+    <a href="/"><img src="/static/logo.png" /></a>
     <nav>
       <ul class="nav navbar-nav">
-        <li{% if this._path == '/' %} class="active"{% endif
-          %}><a href="{{ '/'|url }}">Witamy</a></li>
+        </li>
         {% for href, title in [
           ['/blog', 'Aktualności'],
           ['/about', 'O nas'],
