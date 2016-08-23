@@ -1,0 +1,38 @@
+title: Informacja dla potwierdzonych uczestników PySilesia Juniors #1
+---
+author: Daria Ratyńska
+---
+body:
+
+**Na warsztaty proszę o zabranie laptopa, zasilacza oraz o pobranie i zainstalowanie następującego oprogramowania:**
+
+1. IDE (graficzne środowisko programistyczne) z którego będziemy korzystać [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/) (dostępne dla wszystkich popularnych systemów operacyjnych).
+
+2. Instalator Pythona  na wybranych systemach operacyjnych:
+
+  * Windows:
+[Python for Windows](https://www.python.org/downloads/)
+**Proszę wybrać wersję Python 3.5.2.**
+**UWAGA: Przy instalacji proszę o zaznaczenie opcji „Add Python 3.5 to PATH”.**
+
+  * Linux (niektóre z popularnych dystrybucji):
+    * Ubuntu/Debian: `sudo apt-get install python3`
+    * Fedora/RHEL: `sudo dnf install python3`
+    * Arch Linux : `sudo pacman -S python`
+
+  * OS X:
+    [Python for OS X](https://www.python.org/downloads/mac-osx/)
+    Proszę wybrać wersję: **„Latest Python 3 Release - Python 3.5.2”**
+
+    (Opcjonalnie, jeżeli ktoś posiada homebrew)
+    Otwieramy terminal, piszemy `brew install python3`, następnie zatwierdzamy.
+
+**Prosimy również o skopiowanie [danych](http://pastebin.com/nUHmaG13
+) potrzebnych do zadań oraz zapisanie ich na dysku w postaci pliku tekstowego.**
+Jeśli ktoś nie czuję się na siłach, aby samemu zainstalować środowisko lub nie ma możliwości pobrania powyższego oprogramowania, oczywiście przed rozpoczęciem warsztatów ze wszystkim pomożemy.
+
+**Nie zapomnijcie o dobrym humorze!**
+Do zobaczenia na warsztatach 😊
+
+---
+pub_date: 2016-08-23
