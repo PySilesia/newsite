@@ -14,15 +14,17 @@ W trakcie prezentacji o porządkowaniu chaosu chcę poruszyć takie tematy, jak 
 
 **O prelegencie:**  
 Programista Python z doświadczeniem w rozwijaniu aplikacji webowych - głównie przy użyciu Django. Obecnie zatrudniony w firmie YouGov. W wolnym czasie fan fantasy i larpów, koordynator zlotu miłośników fantastyki Fornost.
-
-**Miejsce:**  
-["Drzwi zwane koniem"](http://drzwizwanekoniem.pl/)  
-Spotykamy się w ostatniej sali (po wejściu cały czas prosto)
-
-**Czas:**  
-25 maja, godz. 17:45
-
 ---
 twitter_handle: fk_lx
 ---
 pub_date: 2016-05-12
+---
+meeting_location:
+
+["Drzwi zwane koniem"](http://drzwizwanekoniem.pl/)  
+Spotykamy się w ostatniej sali (po wejściu cały czas prosto)
+---
+meeting_time:
+
+25 maja, godz. 17:45
+

@@ -10,12 +10,13 @@ Z tematem: Testowanie mutacyjne w języku Python 3.x wystąpi Konrad Hałas.
   
 Abstract:  
 Testowanie mutacyjne jest techniką badającą jakość testów poprzez sztuczne wprowadzanie błędów do kodu źródłowego programu. W ramach prezentacji opowiem o testowaniu mutacyjnym w kontekście Pythona oraz przedstawię narzędzie MutPy [mutpy.org], którego jestem autorem. Opowiem także o metodach redukcji kosztów (czasowych i ilościowych) testowania mutacyjnego i związanymi z tym planami dalszego rozwoju mojego projektu.  
-  
-Dokładny adres spotkania:  
-Gliwice, ul. Pszczyńska 85, CKS Mrowisko ([https://www.polsl.pl/Jednostki/CKS/Strony/witamy.aspx](https://www.polsl.pl/Jednostki/CKS/Strony/witamy.aspx))  
 
-godzina 17:30  
-  
 Serdecznie zapraszamy wszystkich chętnych!  
 ---
 pub_date: 2012-11-29
+---
+meeting_location:
+
+Gliwice, ul. Pszczyńska 85, CKS Mrowisko ([https://www.polsl.pl/Jednostki/CKS/Strony/witamy.aspx](https://www.polsl.pl/Jednostki/CKS/Strony/witamy.aspx))  
+---
+meeting_time: 30 listopada 2012, 17:30

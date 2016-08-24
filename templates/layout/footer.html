@@ -1,3 +1,33 @@
-<footer>
-    &copy; Copyright 2016 by PySilesia. Hosted on <a href="http://megiteam.pl/"><img src="/static/megiteam.png" /></a>
-  </footer>
+<style>
+    /* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 30px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+  background-color: #f5f5f5;
+}
+
+.container .text-muted {
+  margin: 5px 0;
+}
+</style>
+
+<footer class="footer">
+  <div class="container">
+    <p class="text-muted text-center">
+        &copy; Copyright 2016 by PySilesia. Hosted on
+        <a href="http://megiteam.pl/"><img src="{{ '/static/megiteam.png'|asseturl }}"/></a>
+    </p>
+  </div>
+</footer>

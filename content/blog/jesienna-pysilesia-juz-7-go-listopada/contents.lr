@@ -10,9 +10,14 @@ Po wakacyjnej przerwie, kolejne spotkanie PySilesa odbędzie się 7-go listopada
 - Maciej Szulik: "Jenkins" i "Sonar"  
 - Kamil Gałuszka: "Portowanie aplikacji Django na python 3.3"  
   
-Wydarzenie wspiera Biblioteka Śląska w Katowicach.  
-  
-Data i czas: 7 listopad, godz. 18:00  
-Miejsce:  Katowice, ul.Ligonia 7 sala 112 (miejsce spotkań [http://silesia.hackerspace.pl/](http://silesia.hackerspace.pl/))  
+Wydarzenie wspiera Biblioteka Śląska w Katowicach.
 ---
 pub_date: 2013-10-30
+---
+meeting_location:
+
+Katowice, ul.Ligonia 7 sala 112 (miejsce spotkań [http://silesia.hackerspace.pl/](http://silesia.hackerspace.pl/))  
+---
+meeting_time:
+
+7 listopad, godz. 18:00  

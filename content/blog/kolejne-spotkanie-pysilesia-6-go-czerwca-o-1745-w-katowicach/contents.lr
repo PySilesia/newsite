@@ -2,11 +2,14 @@ title: Kolejne spotkanie PySilesia 6-go czerwca o 17:45 w Katowicach
 ---
 author: Maciej Wiśniowski
 ---
-body:
-
-Kolejne spotkanie PySilesia już w czwartek 6-go czerwca. Naszymi gośćmi będą Audrey Roy i Daniel Greenfeld. W ramach spotkania opowiedzą o swojej książce "Two Scoops of Django" (http://django.2scoops.org/) i dobrych praktykach Djangowo-Pythonowych ;) Poza tym dowiemy się również o niedawnych, niezwykle owocnych i ekscytujących poszukiwaniach korzeni przodków przez Daniela w południowo-wschodniej Polsce. Wydarzenie wspiera Biblioteka Śląska w Katowicach.  
-  
-Data i czas: 6 czerwca, godz. 17:45  
-Miejsce: Gmach Biblioteki Śląskiej przy Placu Rady Europy 1, Sala audytoryjna Parnassos  
+body: Kolejne spotkanie PySilesia już w czwartek 6-go czerwca. Naszymi gośćmi będą Audrey Roy i Daniel Greenfeld. W ramach spotkania opowiedzą o swojej książce "Two Scoops of Django" (http://django.2scoops.org/) i dobrych praktykach Djangowo-Pythonowych ;) Poza tym dowiemy się również o niedawnych, niezwykle owocnych i ekscytujących poszukiwaniach korzeni przodków przez Daniela w południowo-wschodniej Polsce. Wydarzenie wspiera Biblioteka Śląska w Katowicach.
 ---
 pub_date: 2013-05-31
+---
+meeting_location:
+
+Gmach Biblioteki Śląskiej przy Placu Rady Europy 1, Sala audytoryjna Parnassos  
+---
+meeting_time:
+
+6 czerwca, godz. 17:45  

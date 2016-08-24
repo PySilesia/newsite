@@ -1,11 +1,12 @@
 {% extends "layout.html" %}
 {% from "macros/blog.html" import render_blog_post %}
 {% from "macros/pagination.html" import render_pagination %}
-{% block title %}{{ this.title }}{% endblock %}
-{% block body %}
-  {{ this.body }}
-  {% set news = site.query('/blog').order_by('-pub_date').limit(5) %}
+{% set news = site.query('/blog').order_by('-pub_date').limit(5) %}
+{% block title %}PySilesia – Śląska Grupa Użytkowników Języka Python{% endblock %}
+{% block content %}
+  <p class="lead">{{ this.body }}</p>
   {% for child in news %}
     {{ render_blog_post(child, from_index=true) }}
   {% endfor %}
+  <p class="text-center"><a href="{{ '/blog'|url }}">Więcej aktualności</a></p>
 {% endblock %}

@@ -13,11 +13,14 @@ Przewidziane zostały 4 prezentacje oraz słowo wstępne kto to jest REST i po c
 3. REST w Ruby on Rails - Maciej Wiśniowski  
 4. REST w Symfony - Michał Pipa  
   
-Dokładny adres spotkania:  
-Gliwice, ul. Pszczyńska 85, CKS Mrowisko ([https://www.polsl.pl/Jednostki/CKS/Strony/witamy.aspx](https://www.polsl.pl/Jednostki/CKS/Strony/witamy.aspx)) - sala konferencyjna (czyli po wejściu schodami po prawej).  
-  
 Serdecznie zapraszamy wszystkich chętnych!  
 ---
 pub_date: 2013-01-10
 ---
 twitter_handle: soltysh
+---
+meeting_location:
+
+Gliwice, ul. Pszczyńska 85, CKS Mrowisko ([https://www.polsl.pl/Jednostki/CKS/Strony/witamy.aspx](https://www.polsl.pl/Jednostki/CKS/Strony/witamy.aspx)) - sala konferencyjna (czyli po wejściu schodami po prawej).  
+---
+meeting_time: 17 stycznia o godz. 18.00

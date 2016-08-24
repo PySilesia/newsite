@@ -12,15 +12,16 @@ Mateusz jest inżynierem oprogramowania, obecnie pracującym w [Continuum Analyt
 
 Ponadto na spotkaniu o wrażeniach z [PyCon SK](https://2016.pycon.sk/en/) i [PyCon UA](http://ua.pycon.org/) oraz krótka opowieść o tym jak udało nam się ostatnio zmigrować stronę PySilesia na [Lektora](https://www.getlektor.com/).
 
-**Miejsce**:  
-["Drzwi zwane koniem"](http://drzwizwanekoniem.pl/)  
-Spotykamy się w ostatniej sali (po wejściu cały czas prosto)
-
-**Czas**:  
-27 kwietnia, godz. 17:45
 
 
 ---
 pub_date: 2016-04-21
 ---
 twitter_handle: fk_lx
+---
+meeting_location:
+
+["Drzwi zwane koniem"](http://drzwizwanekoniem.pl/)  
+Spotykamy się w ostatniej sali (po wejściu cały czas prosto)
+---
+meeting_time: 27 kwietnia, godz. 17:45

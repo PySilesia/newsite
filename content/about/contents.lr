@@ -7,4 +7,5 @@ PySilesia to Śląska Grupa Użytkowników Języka Python.
 Grupa powstała w październiku 2012 r. a jej celem jest popularyzacja nowoczesnych technologii z zakresu IT (z naciskiem na technologie pythonowe) oraz wymiana doświadczeń pomiędzy deweloperami, administratorami, przedstawicielami biznesu oraz kręgów naukowych.
 
 Spotkania grupy odbywają się na Górnym Śląsku.
-
+---
+_template: about.html

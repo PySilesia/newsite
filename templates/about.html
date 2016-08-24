@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block content %}
+  <h1>{{ this.title }}</h1>
+  {{ this.body }}
+  {% for image in this.attachments.images %}
+    <div class="image text-center"><img src="{{ image|url }}" width="{{ image.width / 1.5 }}" height="{{ image.height / 1.5 }}"></div>
+  {% endfor %}
+{% endblock %}

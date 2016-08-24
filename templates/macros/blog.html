@@ -1,20 +1,59 @@
 {% macro render_blog_post(post, from_index=false) %}
-  <div class="blog-post">
-  {% if from_index %}
-    <h2><a href="{{ post|url }}">{{ post.title }}</a></h2>
-  {% else %}
-    <h2>{{ post.title }}</h2>
-  {% endif %}
-  <p class="meta">
-    dodane przez
-    {% if post.twitter_handle %}
-      <a href="https://twitter.com/{{ post.twitter_handle
-        }}">{{ post.author or post.twitter_handle }}</a>
-    {% else %}
-      {{ post.author }}
-    {% endif %} w dniu
-    {{ post.pub_date }}
-  </p>
-  {{ post.body }}
-  </div>
+  <article class="blog-post">
+    <header>
+      {% if from_index %}
+        <h2><a href="{{ post|url }}">{{ post.title }}</a></h2>
+      {% else %}
+        <h1>{{ post.title }}</h1>
+      {% endif %}
+      <p class="meta small">
+        dodane przez
+        {% if post.twitter_handle %}
+          <a href="https://twitter.com/{{ post.twitter_handle
+            }}">{{ post.author or post.twitter_handle }}</a>
+        {% else %}
+          {{ post.author }}
+        {% endif %} w dniu
+        {{ post.pub_date }}
+      </p>
+    </header>
+    <section>
+      {{ post.body }}
+    </section>
+    {% if post.meeting_location or post.meeting_time or post.meeting_registration %}
+    <hr/>
+    <footer>
+      {% if post.meeting_location %}
+        <div class="row">
+          <div class="col-xs-1 col-xs-offset-1">
+            <p><i class="fa fa-map-marker fa-2x" aria-hidden="true" title="Miejsce" alt="Miejsce"></i></p>
+          </div>
+          <div class="col-xs-10">
+            {{ post.meeting_location }}
+          </div>
+        </div>
+      {% endif %}
+      {% if post.meeting_time %}
+        <div class="row">
+          <div class="col-xs-1 col-xs-offset-1">
+            <p><i class="fa fa-calendar fa-2x" aria-hidden="true" title="Czas" alt="Czas"></i></p>
+          </div>
+          <div class="col-xs-10">
+            {{ post.meeting_time }}
+          </div>
+        </div>
+      {% endif %}
+      {% if post.meeting_registration %}
+        <div class="row">
+          <div class="col-xs-1 col-xs-offset-1">
+            <p><i class="fa fa-check-circle-o fa-2x" aria-hidden="true" title="Zapisy" alt="Zapisy"></i></p>
+          </div>
+          <div class="col-xs-10">
+            {{ post.meeting_registration }}
+          </div>
+        </div>
+      {% endif %}
+    </footer>
+    {% endif %}
+  </article>
 {% endmacro %}

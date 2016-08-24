@@ -10,8 +10,11 @@ Aktualnie kiedy organizujemy spotkanie tworzymy nowe wydarzenie na Facebooku i n
 Podczas tego hackatonu chcemy zautomatyzować te wszystkie operacje i może dopisać jeszcze inne. Problem robi się jeszcze ciekawszy, kiedy okazuje się, że Google Plus nie udostępnia żadnego API do tworzenia wydarzeń czy wpisów. Czy to może nas zniechęcić?  
   
 Wszystkich chcących wspólnie poprogramować zapraszamy :)  
-  
-Data: 5 grudnia, godz. 18:00  
-Miejsce:  Katowice, ul.Ligonia 7 sala 112 (miejsce spotkań [http://silesia.hackerspace.pl/](http://silesia.hackerspace.pl/))
 ---
 pub_date: 2013-11-28
+---
+meeting_location: Katowice, ul.Ligonia 7 sala 112 (miejsce spotkań [http://silesia.hackerspace.pl/](http://silesia.hackerspace.pl/))
+---
+meeting_time:
+
+5 grudnia, godz. 18:00  
