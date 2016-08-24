@@ -1,0 +1,43 @@
+title: PySilesia #7/2016
+---
+author: Filip Kłębczyk
+---
+body:
+
+Na sierpniowym spotkaniu PySilesia dwie prelekcje:
+
+**"Mechanizm uwierzytelnienia dla twojego API"**  
+Prelegent: **Przemysław Lewandowski**
+
+**Opis prelekcji:**  
+Na pewno niejednokrotnie zastanawiałeś się jaki mechanizm uwierzytelnienia powinno wspierać API, które właśnie budujesz. W prezentacji przedstawię różne sposoby uwierzytelniania klienta API. Pokażę sposób działania poszczególnych rozwiązań oraz opowiem o zaletach i wadach każdego z nich.
+
+**O prelegencie**  
+Współzałożyciel firmy [Sunscrapers](http://sunscrapers.com/), która zajmuje się projektowaniem i budowaniem aplikacji webowych, dając swoim klientom miłość, jakość i wsparcie. Przemek odpowiada za technologiczną stronę całej firmy oraz jej ciągły rozwój. Wybiera odpowiednie technologie, dobiera zasoby oraz stoi na straży jakości projektów. Wierząc w ważną rolę społeczności w świecie technologii Przemek współorganizuje [PyWaw](http://pywaw.org/).
+
+----
+
+**"Pierwsze kroki z Pandasami"**  
+Prelegent: **Jacek Rzeszutek**
+
+**Opis prelekcji:**  
+Prezentacja wprowadzi Was w podstawy świata Pandasów - wiodącej biblioteki służącej do analizy danych przy użyciu Pythona. W ramach prezentacji poznacie jakie struktury danych oferuje Pandas, operacje I/O, metody wizualizacji danych oraz metody analizy danych. Dodatkowo pokazanych będzie kilka ciekawych zastosować Pandasów w praktyce. Wymagana tylko podstawowa znajomość Pythona :)
+
+**O prelegencie:**  
+Jacek jest programistą, podróżnikiem i praktykiem w tematyce data science, a do tego wszystkiego stałym bywalcem PySilesia. Na co dzień pracuje w ciekawym startupie [portent.io](http://portent.io/), zajmującym się przetwarzaniem danych związanych z rozrywką i filmami.
+
+----
+
+**Lightning Talks:**  
+Odbędzie się też sesja szybkich pięciominutowych prelekcji. Nie trzeba ich wcześniej zgłaszać, ale warto przed spotkaniem się trochę przygotować.
+---
+pub_date: 2016-08-23
+---
+twitter_handle: fk_lx
+---
+meeting_location:
+
+["Drzwi zwane koniem"](http://drzwizwanekoniem.pl/)  
+Spotykamy się **w sali na górze** (parter budynku, nad główną częścią lokalu)
+---
+meeting_registration: 31 sierpnia, godz. 17:45
