@@ -1,0 +1,33 @@
+title: PySilesia #8/2016
+---
+author: Filip Kłębczyk
+---
+body:
+
+Na początek października - warsztat:
+
+**"Pierwsze kroki z Pandasami "**
+
+**Opis warsztatów:**
+Czy wiedziałeś, że pandy należą do grupy gatunków wysokiego ryzyka? A może interesujesz się tematyką przetwarzania oraz analizowania danych? A może po prostu nie lubisz mieszać głową bigosu? Czy warto przyjść na ten warsztat? Oczywiście, że tak! Dzięki temu warsztatowi dowiesz się jak w zgrabny, wektorowy sposób przetwarzać dane. Omówimy struktury danych, jakie oferuje nam Pandas, operacje I/O, podstawowe metody analizy oraz wizualizacji. Na koniec zmierzycie się z większym zadaniem, dzięki któremu w pełni zrozumiecie, jak wykorzystywać tę bibliotekę produkcyjnie. Prosimy wszystkich zainteresowanych warsztatami o zainstalowanie wszystkich bibliotek w opowiednich wersjach (plik requriements.txt) jeszcze przed przybyciem.  
+[Repozytorium warsztatu](https://github.com/Nozdi/first-steps-with-pandas-workshop)
+
+Zasługujesz na efektywny sposób przetwarzania danych!  
+Jeśli się nic nie nauczysz, oddamy Ci kalorie które spalił Twój mózg!
+
+**O prowadzących:**
+Jacek na co dzień tytułuje się “sultan of coding swing”, typowa programistyczna złota rączka. Potrafi zrobić nawet pivot w Pandasach. Mateusz to taki mały data guru (znany w pracy również jako Archbishop of Data Divination). Włada Pandasami niczym pan Wołodyjowski władał szablą. Obaj pracują w bardzo przyjaznym startupie i cieszą się życiem.  
+
+**Zapisy na warsztaty są obowiązkowe!**
+---
+meeting_location:
+
+["Drzwi zwane koniem"](http://drzwizwanekoniem.pl/)  
+---
+meeting_registration: https://goo.gl/forms/MbZbESVMwF5A87K63
+---
+meeting_time: 6 października, godz 18:00
+---
+pub_date: 2016-09-30
+---
+twitter_handle: fk_lx
