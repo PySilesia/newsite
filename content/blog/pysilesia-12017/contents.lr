@@ -1,0 +1,30 @@
+title: PySilesia #1/2017
+---
+author: Jacek Rzeszutek
+---
+body:
+
+**“Pierwsze kroki z Pandasami”**
+
+**Co?** Warsztaty “Pierwsze kroki z Pandasami”, ktory nauczy Cie podstaw przetwarzania i analizowania danych z użyciem Pythona. Wydarzenie odbywa się dzięki współpracy z Medialab Katowice.
+
+**Liczba miejsc:** 20
+
+**Opis warsztatów:** Czy wiedziałeś, że pandy należą do grupy gatunków wysokiego ryzyka? A może interesujesz się tematyką przetwarzania oraz analizowania danych? A może po prostu nie lubisz mieszać głową bigosu? Czy warto przyjść na ten warsztat? Oczywiście, że tak! Dzięki temu warsztatowi dowiesz się jak w zgrabny, wektorowy sposób przetwarzać dane. Omówimy struktury danych, jakie oferuje nam Pandas, operacje I/O, podstawowe metody analizy oraz wizualizacji. Na koniec zmierzycie się z większym zadaniem, dzięki któremu w pełni zrozumiecie, jak wykorzystywać tę bibliotekę produkcyjnie.
+
+**Prosimy** wszystkich zainteresowanych warsztatami o ściągnięcie [repozytorium](https://github.com/Nozdi/first-steps-with-pandas-workshop) ("Clone or download”) oraz zainstalowanie wszystkich bibliotek w opowiednich wersjach (plik requirements.txt) jeszcze przed przybyciem. Jak nie wiesz co to plik requirements.txt, zainstaluj proszę [Anacondę](https://www.continuum.io/downloads) dla Pythona 2.7. Posiadanie zainstalowanego środowiska przed warsztatami umożliwi nam szybsze rozpoczęcie kodowańska. Jak komuś się nie uda zainstalować środowiska przed warsztatami, to ogarniemy na miejscu :)
+
+**[Dla uczestników PySilesia #8/2016]** Te warsztaty będą prowadzone od początku zakresu materiału. Część dla zaawansowanych (druga część warsztatu) odbędzie się w następnych edycjach. Jeśli chcecie utrwalić wiedzę lub wspólnie pohackowac dane, to gorąco zachęcamy do przyjścia na obecne warsztaty :)
+
+Zasługujesz na efektywny sposób przetwarzania danych! Jeśli się nic nie nauczysz, oddamy Ci kalorie które spalił Twój mózg!
+---
+meeting_location:
+
+Medialab Katowice, Plac Sejmu Śląskiego 2, parter (sala nie ma numeru, ale wisi na niej neon z logiem Medialabu)
+
+---
+meeting_registration: https://goo.gl/forms/Gz0sXFkmn0aw9eGz1
+---
+meeting_time: 19 stycznia (czwartek), godz 18:00
+---
+pub_date: 2017-01-04
