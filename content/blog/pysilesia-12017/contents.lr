@@ -10,6 +10,8 @@ body:
 
 **Liczba miejsc:** 20
 
+**Prowadzący:** Jacek Rzeszutek
+
 **Opis warsztatów:** Czy wiedziałeś, że pandy należą do grupy gatunków wysokiego ryzyka? A może interesujesz się tematyką przetwarzania oraz analizowania danych? A może po prostu nie lubisz mieszać głową bigosu? Czy warto przyjść na ten warsztat? Oczywiście, że tak! Dzięki temu warsztatowi dowiesz się jak w zgrabny, wektorowy sposób przetwarzać dane. Omówimy struktury danych, jakie oferuje nam Pandas, operacje I/O, podstawowe metody analizy oraz wizualizacji. Na koniec zmierzycie się z większym zadaniem, dzięki któremu w pełni zrozumiecie, jak wykorzystywać tę bibliotekę produkcyjnie.
 
 **Prosimy** wszystkich zainteresowanych warsztatami o ściągnięcie [repozytorium](https://github.com/Nozdi/first-steps-with-pandas-workshop) ("Clone or download”) oraz zainstalowanie wszystkich bibliotek w opowiednich wersjach (plik requirements.txt) jeszcze przed przybyciem. Jak nie wiesz co to plik requirements.txt, zainstaluj proszę [Anacondę](https://www.continuum.io/downloads) dla Pythona 2.7. Posiadanie zainstalowanego środowiska przed warsztatami umożliwi nam szybsze rozpoczęcie kodowańska. Jak komuś się nie uda zainstalować środowiska przed warsztatami, to ogarniemy na miejscu :)
