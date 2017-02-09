@@ -1,0 +1,29 @@
+title: PySilesia #2/2017
+---
+author: Filip Kłębczyk
+---
+body:
+
+Kolejne spotkanie PySilesia będzie poświęcone tematyce testowania:
+
+**Selenium Page Object Pattern dla BDD**  
+Prelegent: **Maciej Kusz**
+
+**Opis prelekcji:**
+Prezentacja będzie studium przypadku tworzonego przeze Macieja frameworku do testów automatycznych kilku podobnych aplikacji webowych w oparciu o rzeczywiste fragmenty kodu.
+
+**O prelegencie**
+Tester z blisko 10 letnim stażem, który przeszedł od testów manualnych do automatyzacji, od testowania aplikacji webowych do urządzeń typu embedded (o czym mówił na PyCon PL'16), od Junior Testera do Test Lead'a, by osiąść w [XCaliber](www.xcaliber.com) jako osoba odpowiedzialna za wdrożenie automatyzacji testów.
+
+----
+
+**Lightning Talks:**  
+Odbędzie się też sesja szybkich pięciominutowych prelekcji. Nie trzeba ich wcześniej zgłaszać, ale warto przed spotkaniem się trochę przygotować.
+---
+meeting_location: Medialab Katowice, Plac Sejmu Śląskiego 2, parter (w środku po lewej)
+---
+meeting_time: 23 luty (czwartek), godz 18:00
+---
+pub_date: 2017-02-09
+---
+twitter_handle: fk_lx
