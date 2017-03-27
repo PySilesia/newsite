@@ -1,0 +1,36 @@
+title: PySilesia #3/2017
+---
+author: Dawid Osuchowski
+---
+body:
+
+"Pierwsze kroki z Pandasami"
+
+Co? Druga część warsztatów "Pierwsze kroki z Pandasami" (częśc pierwsza: http://pysilesia.org/blog/pysilesia-12017/). W oparciu o bibliotekę Pandas, będziemy tworzyć proste wykresy, agregować dane, łączyć wiele DataFrame-ów, operować na danych związanych z czasem i pracować w "dzikim świecie". Wydarzenie odbywa się dzięki współpracy z Medialab Katowice.
+
+**Liczba miejsc:** 20
+
+Prowadzący: **Jacek Rzeszutek**
+
+**Opis warsztatów:**
+
+Warsztaty są głównie kierowane do osób, które uczesniczyły w części pierwszej. Jeśli ktoś nie uczestniczył w części pierwszej, a chciałby uczestniczyć w tej części, to trzeba troszkę nadgonić materiał. Zakładamy, że każdy uczesnik części drugiej:
+- ma zainstalowane środowisko,
+- rozumie czym jest DataFrame,
+- potrafi wczytać dane z pliku,
+- potrafi filtrować dane,
+- portafi stworzyć nową kolumnę na podstawie paru innych kolumn.
+
+Szczegóły dotyczące materiałów i instalacji: http://pysilesia.org/blog/pysilesia-12017/
+
+Zasługujesz na efektywny sposób przetwarzania danych! Jeśli się nic nie nauczysz, oddamy Ci kalorie które spalił Twój mózg!
+---
+meeting_location: Medialab Katowice, Plac Sejmu Śląskiego 2, parter (sala nie ma numeru, ale wisi na niej neon z logiem Medialabu)
+---
+meeting_registration: https://goo.gl/nhYS2J
+---
+meeting_time: 20 kwietnia (czwartek), godz 18:00
+---
+pub_date: 2017-03-27
+---
+twitter_handle: tulphoon
