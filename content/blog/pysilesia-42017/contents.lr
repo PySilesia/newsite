@@ -1,0 +1,35 @@
+title: PySilesia #4/2017
+---
+author: Dawid Osuchowski
+---
+body:
+
+**"Skręć Pythona"**
+Niepowtarzalne i jedyne w swoim rodzaju warsztaty z Twisted. Jeśli chcesz się nauczyć tworzyć asynchroniczne aplikacje sieciowe koniecznie musisz się pojawić.
+
+**Liczba miejsc:** 20
+
+**Prowadzący:** Piotr Wójcik
+
+**Opis warsztatów:** Podczas warsztatów będziesz zmuszony wykonać kilka zadań, ale nie martw się, nie zmęczą one ani Ciebie, ani co gorsza Twojego komputera.
+Celem będzie stworzenie prostego komunikatora, który pozwoli na wysyłanie wiadomości do pozostałych uczestników warsztatów.
+W trakcie spotkanie dowiesz się:
+
+  * Jak nawiązać połączenie TCP.
+  * Jak odbierać i wysyłać dane.
+  * Zarządzać wieloma połączeniami.
+  * Jak działają asynchroniczne biblioteki.
+
+**Nie czekaj!** Weź znajomych i przyjdźcie razem skręcić Pythona ;)
+---
+meeting_location:
+
+ Centrum Organizacji Pozarządowych w Katowicach, ul. Kopernika 14, parter (sala konferencyjna)
+---
+meeting_registration: https://goo.gl/K3IGvu
+---
+meeting_time: 17 maja (środa), godz 17:00
+---
+pub_date: 2017-04-27
+---
+twitter_handle: tulphoon
