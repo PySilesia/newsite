@@ -13,7 +13,7 @@ Niepowtarzalne i jedyne w swoim rodzaju warsztaty z Twisted. Jeśli chcesz się 
 
 **Opis warsztatów:** Podczas warsztatów będziesz zmuszony wykonać kilka zadań, ale nie martw się, nie zmęczą one ani Ciebie, ani co gorsza Twojego komputera.
 Celem będzie stworzenie prostego komunikatora, który pozwoli na wysyłanie wiadomości do pozostałych uczestników warsztatów.
-W trakcie spotkanie dowiesz się:
+W trakcie spotkania dowiesz się:
 
   * Jak nawiązać połączenie TCP.
   * Jak odbierać i wysyłać dane.
