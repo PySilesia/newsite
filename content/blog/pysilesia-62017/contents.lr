@@ -1,0 +1,68 @@
+title: PySilesia #6/2017
+---
+author: Maciej Szulik
+---
+body:
+
+W ramach spotkania odbędą się warsztaty z [OpenShift-a](https://www.openshift.com/).
+
+----
+
+**Prowadzący**: Maciej Szulik ([@soltysh](https://twitter.com/soltysh))
+
+**Tytuł**: Efektywne uruchamianie aplikacji python-owych na platformie Kubernetes/OpenShift?
+
+**Opis**: Google, Red Hat, Intel, Huawei, Mirantis oraz wiele, wiele innych firm inwestuje
+ogromne zasoby ludzi i czasu w projekt [Kubernetes](https://github.com/kubernetes/kubernetes/).
+Założę się, że i dla Ciebie ta nazwa budzi pewne skojarzenia, zapewne zetknąłeś
+się z nią w ciągu ostatnich dwunastu miesięcy albo na Hacker News, Twitter-ze,
+Facebook-u lub na innym kanale. Czy chciałbyś się dowiedzieć więcej na temat
+obecnie najlepszego systemu zarządzania kontenerami, ale obawiasz się problemów
+początkującego? Czy chcesz zobaczyć jak łatwo uruchomić aplikacji z wykorzystaniem
+kontenerów? Czy chcesz poczuć łatwość skalowania aplikacji jednym kliknięciem?
+To i wiele innych tematów zostanie poruszone podczas naszego spotkania.
+
+W ramach tej prezentacji/warsztatu postaram się pokazać, krok po kroku jak łatwo
+można skonfigurować środowisko, a następnie zbudować i uruchomić aplikację bazującą
+na architekturze miscroservice-ów. W tym calu wykorzystamy [OpenShift-a](https://www.openshift.com/),
+który jest dystrybucją Kubernetes utworzoną przez firmę [Red Hat](https://www.redhat.com/)
+z kilkoma dodatkami, które zostaną szczegółowo opisane na początku prezentacji.
+
+Aby dodatkowo zachęcić Cię do udziału oto kilka tematów, które zostaną poruszone
+w ramach spotkania:
+
+- w pełni automatyczne budowanie i uruchamianie aplikacji
+- integracja z git-em
+- integracja z rejestrem obrazów (np. Docker Hub)
+- skalowanie aplikacji
+- bezpieczeństwo kontenerów
+
+i wiele innych.
+
+**Ważne**: Dla osób, które chcą przerabiać materiał wraz z prowadzącym konieczne
+jest wcześniejsze uruchomienie OpenShifta lokalnie, ze względu na potrzębę ściągnięcia
+kilku gigabytów obrazów. W tym celu należy zaopatrzyć się w [Docker-a](https://www.docker.com/)
+oraz ściągnąć [klienta OpenShifta](https://github.com/openshift/origin/releases/tag/v1.5.1)
+odpowiadającego Twojej platformie. Rozpakować archiwum i uruchomić polecenie `oc cluster up`,
+która to komenda uruchomi lokalnie OpenShifta. Pierwsze uruchomienie będzie trwało
+kilka-kilkanaście minut (w zależności od dostępnego łącza) ponieważ ściągane są
+obrazy konieczne do uruchomienia OpenShifta. Po poprawnym uruchomieniu można
+OpenShifta wyłączyć poleceniem `oc cluster down`.
+
+Dla niecierpliwych, przerabiany materiały dostępne są pod [tym adresem](http://tutorial-pycon.1d35.starter-us-east-1.openshiftapps.com/).
+
+**O prelegencie**: Maciej jest pasjonatą programowania z ponad 10-cio letnim stażem.
+Obecnie zajmuje się [http://bugs.python.org/](http://bugs.python.org/) a przy okazji
+czasem poprawią bibliotekę `imap` oraz od niedawna `argparse` ze standardowej biblioteki
+CPythona. Poza tym, pracuję na projektami OpenShift i Kubernetes dla firmy Red Hat.
+W pozostałym wolnym czasie pomaga przy PyCon PL, US PyCon oraz prezentuję na różnych
+wydarzeniach w Europie i na Świecie.
+
+---
+pub_date: 2017-06-06
+---
+twitter_handle: soltysh
+---
+meeting_location: meeting_location: Medialab Katowice, Plac Sejmu Śląskiego 2, parter (sala nie ma numeru, ale wisi na niej neon z logiem Medialabu)
+---
+meeting_time: 29 czerwca (czwartek), godz 18:00
