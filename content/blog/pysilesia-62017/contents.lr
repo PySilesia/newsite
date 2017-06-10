@@ -4,9 +4,11 @@ author: Maciej Szulik
 ---
 body:
 
-W ramach spotkania odbędą się warsztaty z [OpenShift-a](https://www.openshift.com/).
+W ramach spotkania odbędą się warsztaty z [OpenShift-a](https://www.openshift.com/). Wydarzenie odbywa się dzięki współpracy z  Medialab Katowice. Na warsztat obowiązują zapisy.
 
 ----
+
+**Liczba miejsc:** 20
 
 **Prowadzący**: Maciej Szulik ([@soltysh](https://twitter.com/soltysh))
 
@@ -41,28 +43,30 @@ i wiele innych.
 
 **Ważne**: Dla osób, które chcą przerabiać materiał wraz z prowadzącym konieczne
 jest wcześniejsze uruchomienie OpenShifta lokalnie, ze względu na potrzębę ściągnięcia
-kilku gigabytów obrazów. W tym celu należy zaopatrzyć się w [Docker-a](https://www.docker.com/)
+kilku gigabajtów obrazów. W tym celu należy zaopatrzyć się w [Docker-a](https://www.docker.com/)
 oraz ściągnąć [klienta OpenShifta](https://github.com/openshift/origin/releases/tag/v1.5.1)
 odpowiadającego Twojej platformie. Rozpakować archiwum i uruchomić polecenie `oc cluster up`,
-która to komenda uruchomi lokalnie OpenShifta. Pierwsze uruchomienie będzie trwało
+które uruchomi lokalnie OpenShifta. Pierwsze uruchomienie będzie trwało
 kilka-kilkanaście minut (w zależności od dostępnego łącza) ponieważ ściągane są
 obrazy konieczne do uruchomienia OpenShifta. Po poprawnym uruchomieniu można
 OpenShifta wyłączyć poleceniem `oc cluster down`.
 
-Dla niecierpliwych, przerabiany materiały dostępne są pod [tym adresem](http://tutorial-pycon.1d35.starter-us-east-1.openshiftapps.com/).
+Dla niecierpliwych, przerabiane materiały dostępne są pod [tym adresem](http://bit.ly/os3work).
 
 **O prelegencie**: Maciej jest pasjonatą programowania z ponad 10-cio letnim stażem.
 Obecnie zajmuje się [http://bugs.python.org/](http://bugs.python.org/) a przy okazji
-czasem poprawią bibliotekę `imap` oraz od niedawna `argparse` ze standardowej biblioteki
-CPythona. Poza tym, pracuję na projektami OpenShift i Kubernetes dla firmy Red Hat.
-W pozostałym wolnym czasie pomaga przy PyCon PL, US PyCon oraz prezentuję na różnych
+czasem poprawia bibliotekę `imap` oraz od niedawna `argparse` ze standardowej biblioteki
+CPythona. Poza tym, pracuje nad projektami OpenShift i Kubernetes dla firmy Red Hat.
+W pozostałym wolnym czasie pomaga przy PyCon PL, US PyCon oraz prezentuje na różnych
 wydarzeniach w Europie i na Świecie.
 
 ---
-pub_date: 2017-06-06
+pub_date: 2017-06-10
 ---
 twitter_handle: soltysh
 ---
-meeting_location: meeting_location: Medialab Katowice, Plac Sejmu Śląskiego 2, parter (sala nie ma numeru, ale wisi na niej neon z logiem Medialabu)
+meeting_location: Medialab Katowice, Plac Sejmu Śląskiego 2, parter po lewej
 ---
 meeting_time: 29 czerwca (czwartek), godz 18:00
+---
+meeting_registration: https://goo.gl/forms/1WegdMfuwX3zXVuA3
