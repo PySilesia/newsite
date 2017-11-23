@@ -1,0 +1,23 @@
+title: PySilesia #8/2017
+---
+author: Dawid Osuchowski
+---
+body:
+
+**Prowadzący:** Piotr Grzesik 
+
+**Tytuł:** Środowiska wirtualne oraz zarządzanie zależnościami w Pythonie
+
+**Opis:**  
+W swojej prezentacji chciałbym przedstawić słuchaczom jakie możliwości oferuje Python w zakresie środowisk wirtualnych, co daje nam izolacja którą zapewniają, jak z nich korzystać w codziennej pracy, a także nieco na temat tego jak działają "pod maską". W drugiej części poruszę temat zarządzania zależnościami, jakie problemy możemy napotkać korzystając z zewnętrznych bibliotek, a także jak ich unikać i zapewnić sobie powtarzalność środowisk deweloperskich, testowych oraz produkcyjnych. Narzędzia, o których mniej lub bardziej opowiem podczas swojej prezentacji: pyenv, virtualenv, virtualenvwrapper, venv, pip, pip-tools, Pipfile, conda, pipenv.
+
+**O prelegencie:**
+Software developer pracujący w krakowskim Pragmatic Coders, podczas codziennej pracy najczęściej programuje w Pythonie, chociaż coraz częściej zdarza mu się eksperymentować z Solidity, JavaScriptem i Rustem. Lubi AWSa, Gitlab CI, Dockera i automatyzację wszystkiego co się da. Po godzinach pomaga w organizacji spotkań Krakowskiej Grupy Użytkowników Pythona - Pykonik.
+---
+meeting_location: Centrum Organizacji Pozarządowych w Katowicach, ul. Kopernika 14, parter (sala konferencyjna)
+---
+meeting_time: 30 listopada (czwartek), godz 18:00
+---
+pub_date: 2017-11-19
+---
+twitter_handle: tulphoon
