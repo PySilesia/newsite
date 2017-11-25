@@ -13,6 +13,18 @@ W swojej prezentacji chciałbym przedstawić słuchaczom jakie możliwości ofer
 
 **O prelegencie:**
 Software developer pracujący w krakowskim Pragmatic Coders, podczas codziennej pracy najczęściej programuje w Pythonie, chociaż coraz częściej zdarza mu się eksperymentować z Solidity, JavaScriptem i Rustem. Lubi AWSa, Gitlab CI, Dockera i automatyzację wszystkiego co się da. Po godzinach pomaga w organizacji spotkań Krakowskiej Grupy Użytkowników Pythona - Pykonik.
+
+----
+
+**Prowadzący:** Łukasz Dziedzia
+
+** Tytuł:** Redis - więcej niż key-value store
+
+**Opis:**  
+Redis jest obecnie jedną z najbardziej popularnych baz danych, mimo to w większości przypadków używany jest wyłącznie jako silnik do cache. W swojej prezentacji chciałbym przybliżyć to rozwiązanie, głównie z perspektywy dewelopera. Chciałbym też podzielić sie doświadczeniem z używania Redisa, jakie zdobyliśmy w platformie gamingowej XCaliber, gdzie Redis pełni istotną rolę, pomagając nam obsługiwać tysiące transakcji na sekundę.
+
+**O prelegencie:**
+Software developer od ponad 10 lat. Pythonowiec od pierwszego wejrzenia. Obecnie pracuje jako Software Development Manager w XCaliber Poland rozwijając platformę gamingową.
 ---
 meeting_location: Centrum Organizacji Pozarządowych w Katowicach, ul. Kopernika 14, parter (sala konferencyjna)
 ---
