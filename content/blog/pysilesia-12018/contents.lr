@@ -1,0 +1,40 @@
+title: PySilesia #1/2018
+---
+author: Filip Kłębczyk
+---
+body:
+
+Pierwsze w 2018 r. spotkanie PySilesia odbędzie się w środę 21 lutego i znajdą się na nim dwie prelekcje. Tym razem spotykamy się w Medialab Katowice.
+
+----
+
+**Prowadzący:** Anna Matysiak,
+
+**Tytuł:** Backendowcu, zostań CSS ninja! Czyli jak odnaleźć się w świecie nowoczesnego kodu CSS.
+
+**Opis:** W czasie prezentacji opowiem Wam o tym, jak ewoluował CSS oraz, że takie pojęcia jak SOLID, DRY, metodyki czy też architektura nie są zarezerwowane tylko dla takich języków programowania jak np Python, ale również pojawiają się przy pisaniu styli :)
+
+**O prelegencie:**
+Anna jest Senior Frontend Developer w XSolve. Była już webdeveloperem, programistą, webdesignerem, a od kilku lat porzuciła technologie backendowe aby zająć się głównie frontendem. Miłośniczka SCRUMa i zwinnego programowania - uważa, że świetny programista to połączenie umiejętności technicznych oraz "miękkich". Prywatnie interesuje ją wszystko związane z Kanadą, Norwegią, NASA i japońskimi sztukami walki :) 
+
+----
+
+**Prowadzący:** Christopher Lozinski
+
+**Tytuł:** Introduction to the Z Object database
+
+**Opis:** 
+The ZODB is an object-oriented database written in Python and optimized in C. Just subclass off of class Persistent, and your applications become persistent. It makes it really easy to build persistent trees and graphs. Then one displays views on those objects.   The ZODB  is heavily used in Plone and Pyramid.
+
+The browser-based ZodbDemo makes it really easy to build simple websites.  File system development is used for more complex websites.  Indeed the more complex the application the greater the benefit of using the ZODB. 
+
+This talk is an introduction to the ZODB, presents important concepts, and reviews the tools available.
+
+---
+meeting_location: Medialab Katowice, Plac Sejmu Śląskiego 2, parter po lewej
+---
+meeting_time: 18:00
+---
+pub_date: 2018-02-13
+---
+twitter_handle: fk_lx
