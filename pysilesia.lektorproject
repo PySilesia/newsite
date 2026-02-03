@@ -2,4 +2,4 @@
 name = pysilesia
 
 [servers.ghpages]
-target = ghpages://pysilesia/pysilesia.github.io
+target = ghpages://PySilesia/pysilesia.github.io?cname=pysilesia.pl
